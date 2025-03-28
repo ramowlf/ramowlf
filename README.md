@@ -2,7 +2,7 @@
 
 ## Telegram
 ### • [Support 💬](https://t.me/ramowlf) Telegram Support 
-### • [Channel 🎲](https://t.me/BotAltyapiKanali) Telegram Channel
+### • [Channel 🎲](https://t.me/TurkUserBotKanali) Telegram Channel
 
 ------------------------
 
